@@ -1,1 +1,2 @@
 # steam-achievement-analysis
+This jupyter notebook provides a CRISP-DM like process for the dataset, which represents the best, 200k players in regard to achievements gained on steam. The data first got cleaned and prepared for the EDA. After doing the EDA on the achievements gained, the ranking of the players and the achievements aggregated to countries, I implemented two models for predicting the rank of a player based on attributes which could be easily scrapped of a public steam profile.
